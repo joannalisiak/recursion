@@ -1,5 +1,5 @@
-// input is a positive integer
 // returns element of fibonacci sequence at given index
+
 const fibonacci = (number: number): number => {
   // first base case
   if (number <= 0) {
